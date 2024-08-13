@@ -1,4 +1,4 @@
-tiktok-font-maker
+Potleafs TikTok-Font-Maker-Method2024
 
 Make fonted tiktok usernames with this! (forked from 0xf15 and made better)
 
