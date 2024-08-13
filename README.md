@@ -14,7 +14,9 @@ Important
 
 To run the script download python (https://www.python.org/downloads/) and add to path
 on your computer open cmd and type pip install requests
-Faq
+
+
+~FAQ~
 
 Q1: Whats all the confusing stuff in the code?
 A1: X-Gorgon and X-khronos is a an algorithm tiktok uses so the request to the API is succesfull
